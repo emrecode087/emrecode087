@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A passionate web developer from Turkey</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emrecode087&label=Profile%20views&color=0e75b6&style=flat" alt="emrecode087" /> </p>
+
 - 🌱 I’m currently learning **.NET 8.0**
 
 - 💬 Ask me about **C# , PostgreSQL , jQuery , Ajax , Computer Engineering**
