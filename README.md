@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.NET 8.0**
 
-- 💬 Ask me about **C# , PostgreSQL , jQuery , Ajax Computer Engineering**
+- 💬 Ask me about **C# , PostgreSQL , jQuery , Ajax and Computer Engineering**
 
 - 📫 How to reach me **emretrbas@gmail.com**
 
